@@ -1,18 +1,6 @@
-# SPL-Extra-credit
-
-
-/*-------------README--------------*\
-Group Members:
-- Taylor Conners
-- Aaron Hibyan
-- Sai Vikhyat
-- David Pushard
-- Alex Sherrill
-- Richa Gupta
 
 Intro:
-These function definitions were built to satisfy the goals as outlined
-in the Extra Credit Activity document. Given a file written by the Twitter.py,
+Given a file written by the Twitter.py,
 the functions in EC.py will read and organize the information in that file. 
 There are function definitions to:
 
